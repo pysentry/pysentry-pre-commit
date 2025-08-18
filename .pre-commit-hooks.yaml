@@ -4,7 +4,7 @@
   entry: pysentry-rs
   language: python
   always_run: true
+  pass_filenames: false
   additional_dependencies:
     ["pysentry-rs==0.3.5", "uv==0.8.9", "pip-tools==7.5.0"]
   minimum_pre_commit_version: "2.9.2"
-  types: [python]

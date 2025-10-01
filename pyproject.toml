@@ -4,10 +4,10 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pysentry-pre-commit"
-version = "0.3.6"
+version = "0.3.11"
 description = "Pre-commit hooks for PySentry security scanner"
 readme = "README.md"
 authors = [
     {name = "Nikita Iudenkov", email = "nikita@pysentry.com"}
 ]
-requires-python = ">=3.8"
+requires-python = ">=3.9"

@@ -1,3 +1,3 @@
 """PySentry Pre-commit Hooks."""
 
-__version__ = "0.3.16"
+__version__ = "0.4.0"
